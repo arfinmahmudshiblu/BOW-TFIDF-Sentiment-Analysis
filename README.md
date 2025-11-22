@@ -6,3 +6,5 @@ This project performs sentiment analysis using Bag of Words and TF-IDF with stem
 
 # Result
 Test Accuracy: 0.8820
+# Final Acuracy
+Accuracy around 88–90%
